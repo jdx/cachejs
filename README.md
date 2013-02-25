@@ -20,3 +20,8 @@ else
       console.log "uncached. Saved result for next call"
       console.log data
 ```
+
+TODO
+====
+* expiration
+* fetch?
